@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/kan.tryd.plugins_1.0.0.jar" id="kan.tryd.plugins" version="1.0.0">
+      <category name="kan.tryd.plugins"/>
+   </feature>
+   <category-def name="kan.tryd.plugins" label="Tryd Plugins"/>
+</site>
