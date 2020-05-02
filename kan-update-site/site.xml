@@ -3,7 +3,7 @@
    <feature url="features/kan.tryd.feature.indicators.vtc_1.0.3.jar" id="kan.tryd.feature.indicators.vtc" version="1.0.3">
       <category name="kan.tryd.plugins"/>
    </feature>
-   <feature url="features/kan.tryd.feature.indicators.vwapvariation_1.0.0.jar" id="kan.tryd.feature.indicators.vwapvariation" version="1.0.0">
+   <feature url="features/kan.tryd.feature.indicators.vwapvariation_1.0.1.jar" id="kan.tryd.feature.indicators.vwapvariation" version="1.0.1">
       <category name="kan.tryd.plugins"/>
    </feature>
    <category-def name="kan.tryd.plugins" label="Tryd Plugins"/>
