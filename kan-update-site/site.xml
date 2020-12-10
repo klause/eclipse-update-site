@@ -6,7 +6,7 @@
    <feature id="kan.tryd.feature.indicators.vwapvariation" version="0.0.0">
       <category name="kan.tryd.plugins"/>
    </feature>
-   <feature url="features/kan.tryd.feature.indicators.volptax_1.0.0.jar" id="kan.tryd.feature.indicators.volptax" version="1.0.0">
+   <feature id="kan.tryd.feature.indicators.volptax" version="0.0.0">
       <category name="kan.tryd.plugins"/>
    </feature>
    <category-def name="kan.tryd.plugins" label="Tryd Plugins"/>
